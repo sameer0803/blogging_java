@@ -10,6 +10,7 @@ public class ImageApplication {
 		SpringApplication.run(ImageApplication.class, args);
 
 		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
